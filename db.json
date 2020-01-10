@@ -1,0 +1,4468 @@
+{
+    "businesses": [
+        {
+            "id": "Cyr4sVtwrDOKF3nLlOATqQ",
+            "alias": "peaky-barista-new-york",
+            "name": "Peaky Barista",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-xm1G1whpjzVFGgD35OYCQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/peaky-barista-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 33,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.79848,
+                "longitude": -73.96868
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2680 Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10025",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "2680 Broadway",
+                    "New York, NY 10025"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 4343.565375972296,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1900",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1900",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "x8slUOJxMX2EJ0YUU0rrSg",
+            "alias": "banter-new-york-3",
+            "name": "Banter",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tSOcfx0AMvlvr_QdlO-MWA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/banter-new-york-3?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.739135,
+                "longitude": -74.005738
+            },
+            "transactions": [],
+            "location": {
+                "address1": "643 Hudson St",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10014",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "643 Hudson St",
+                    "New York, NY 10014"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3278.5526192872735,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": false,
+            "open_late": false
+        },
+        {
+            "id": "WHRHK3S1mQc3PmhwsGRvbw",
+            "alias": "bibble-and-sip-new-york-2",
+            "name": "Bibble & Sip",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jf84Chsb5Ng76BdwMgLZsw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bibble-and-sip-new-york-2?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 4703,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.76282,
+                "longitude": -73.98518
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "253 W 51st St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "253 W 51st St",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+16466495116",
+            "display_phone": "(646) 649-5116",
+            "distance": 630.9635062313688
+        },
+        {
+            "id": "Kt2WCONkYVCKi0RDIknrlg",
+            "alias": "clovelly-coffee-new-york",
+            "name": "Clovelly Coffee",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WIj_LLSnLaa1U6mSfIAdbw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/clovelly-coffee-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.75326,
+                "longitude": -73.99663
+            },
+            "transactions": [],
+            "location": {
+                "address1": "423 9th Ave",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10001",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "423 9th Ave",
+                    "New York, NY 10001"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1723.391604553479,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1700",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1700",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1700",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1700",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1700",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "1500",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "1500",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": false,
+            "open_late": false
+        },
+        {
+            "id": "pimuUR-TEHIjUla3S3jemQ",
+            "alias": "coffee-project-new-york-new-york-3",
+            "name": "Coffee Project New York",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ot8YckOWQ--vf5FNX59Pog/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/coffee-project-new-york-new-york-3?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 669,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.72699,
+                "longitude": -73.98922
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "239 E 5th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10003",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "239 E 5th St",
+                    "New York, NY 10003"
+                ]
+            },
+            "phone": "+12122287888",
+            "display_phone": "(212) 228-7888",
+            "distance": 3801.0617998515427,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1800",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1730",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "xFefCWC6Ng1OHBMXHzbfrQ",
+            "alias": "lülü-coffee-co-new-york-23",
+            "name": "LÜLÜ COFFEE CO",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5wXyzc0uH2nOmbnrqG_g2A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/l%C3%BCl%C3%BC-coffee-co-new-york-23?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 79,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.747277,
+                "longitude": -73.9893112
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "59 W 30th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10016",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "59 W 30th St",
+                    "New York, NY 10016"
+                ]
+            },
+            "phone": "+12124442178",
+            "display_phone": "(212) 444-2178",
+            "distance": 1702.6120871938774,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1500",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "IkyRp47Jpbk_AQ35qlr-eg",
+            "alias": "bird-and-branch-new-york",
+            "name": "Bird & Branch",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vcgWZZcrpSq6qX6i4r5lrA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bird-and-branch-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 243,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7603099,
+                "longitude": -73.99087
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "359 West 45th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "359 West 45th St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+19172658444",
+            "display_phone": "(917) 265-8444",
+            "distance": 1034.0276147685101,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1930",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1930",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1930",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1930",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1930",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1600",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "GdomoHz5DwkS54hISKZZeQ",
+            "alias": "matto-espresso-new-york-21",
+            "name": "Matto Espresso",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/alcjTrH8Zfx2coi36EUarA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/matto-espresso-new-york-21?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.75153,
+                "longitude": -73.98379
+            },
+            "transactions": [],
+            "location": {
+                "address1": "15 W 38th St New York Ny",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10018",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "15 W 38th St New York Ny",
+                    "New York, NY 10018"
+                ]
+            },
+            "phone": "+12122444281",
+            "display_phone": "(212) 244-4281",
+            "distance": 1052.4028666669772,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1730",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1730",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1730",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1730",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1700",
+                            "day": 4
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "NYU2iSBy2nwBmggb07FWXA",
+            "alias": "bluestone-lane-new-york-10",
+            "name": "Bluestone Lane",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cx6rBga6732RSVEFCTuxVw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bluestone-lane-new-york-10?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 263,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7554239,
+                "longitude": -73.9705679
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "805 3rd Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10022",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "805 3rd Ave",
+                    "New York, NY 10022"
+                ]
+            },
+            "phone": "+17183746858",
+            "display_phone": "(718) 374-6858",
+            "distance": 854.5209025118454,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1700",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1700",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1700",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1700",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1700",
+                            "day": 4
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "xHBpwGzxxbC3vTahHWdABg",
+            "alias": "perk-kafe-new-york",
+            "name": "Perk Kafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Vdc89zdAqvqORqgVsWvkqg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/perk-kafe-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 382,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.747764735907,
+                "longitude": -73.9770407671092
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "162 E 37th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10016",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "162 E 37th St",
+                    "New York, NY 10016"
+                ]
+            },
+            "phone": "+12126867375",
+            "display_phone": "(212) 686-7375",
+            "distance": 1389.8432874645655,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1900",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "HjGjGy3JhhRFcR7MaQLrjA",
+            "alias": "frisson-espresso-new-york",
+            "name": "Frisson Espresso",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Nc04NmKAd_l3JsCinFymrA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/frisson-espresso-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 700,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7608108520508,
+                "longitude": -73.9889984130859
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "326 W 47th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "326 W 47th St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+16468503928",
+            "display_phone": "(646) 850-3928",
+            "distance": 886.22427223607,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1900",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "sSQ3dtC8nbfeT6srFiiIlA",
+            "alias": "stumptown-coffee-roasters-new-york",
+            "name": "Stumptown Coffee Roasters",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MjfyS99JsOMjsX51tdcHWw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/stumptown-coffee-roasters-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 1396,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "coffeeroasteries",
+                    "title": "Coffee Roasteries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7456663381275,
+                "longitude": -73.9880916348562
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "20 W 29th St",
+                "address2": "",
+                "address3": "The Ace Hotel",
+                "city": "New York",
+                "zip_code": "10001",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "20 W 29th St",
+                    "The Ace Hotel",
+                    "New York, NY 10001"
+                ]
+            },
+            "phone": "+18557113385",
+            "display_phone": "(855) 711-3385",
+            "distance": 1808.2449104535112,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0600",
+                            "end": "2000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0600",
+                            "end": "2000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0600",
+                            "end": "2000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0600",
+                            "end": "2000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0600",
+                            "end": "2000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "qGvo8VHrY85b4Ze-JaIjYg",
+            "alias": "ralphs-coffee-new-york-4",
+            "name": "Ralph's Coffee",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HeDJevuMRay4Ch-qzd3teA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ralphs-coffee-new-york-4?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 31,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7716587057718,
+                "longitude": -73.9657659083605
+            },
+            "transactions": [],
+            "location": {
+                "address1": "888 Madison Ave",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10021",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "888 Madison Ave",
+                    "New York, NY 10021"
+                ]
+            },
+            "phone": "+12124348000",
+            "display_phone": "(212) 434-8000",
+            "distance": 1664.1516163939536,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1900",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "1800",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": false,
+            "open_late": false
+        },
+        {
+            "id": "HgfzssjwDEWtdcaxSJqfqg",
+            "alias": "seven-grams-caffe-new-york-3",
+            "name": "Seven Grams Caffe",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XSI6LkStVjn3NPTf59mTYg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/seven-grams-caffe-new-york-3?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 423,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7456063122198,
+                "longitude": -73.9942775377597
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "275 7th Ave",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10001",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "275 7th Ave",
+                    "New York, NY 10001"
+                ]
+            },
+            "phone": "+12127271777",
+            "display_phone": "(212) 727-1777",
+            "distance": 2098.7691730801625,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1900",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1900",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "Hx-4-YMPBy7KxypY2Q04PQ",
+            "alias": "about-coffee-new-york-3",
+            "name": "About Coffee",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/t6vszsbYCZIzk289VgwUcw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/about-coffee-new-york-3?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 31,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7833312,
+                "longitude": -73.9742854
+            },
+            "transactions": [],
+            "location": {
+                "address1": "445 Columbus Ave",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10024",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "445 Columbus Ave",
+                    "New York, NY 10024"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2597.0451386090162,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1800",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1800",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "MKYhiSeXjahxh9O4Gqnimw",
+            "alias": "grace-street-new-york",
+            "name": "Grace Street",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/I4C2LDxN3s-GYoNvopTS7g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/grace-street-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 2416,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "shavedice",
+                    "title": "Shaved Ice"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7478576793883,
+                "longitude": -73.9865590631962
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "17 W 32nd St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10001",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "17 W 32nd St",
+                    "New York, NY 10001"
+                ]
+            },
+            "phone": "+19177452125",
+            "display_phone": "(917) 745-2125",
+            "distance": 1532.5835164824166,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0030",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0030",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": false,
+            "open_late": false
+
+        },
+        {
+            "id": "mj49a6fFkydUPuaDyuIy8Q",
+            "alias": "for-five-coffee-roasters-new-york-2",
+            "name": "For Five Coffee Roasters",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KcuQl1a9mUruiZf9Wc9QcA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/for-five-coffee-roasters-new-york-2?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 200,
+            "categories": [
+                {
+                    "alias": "coffeeroasteries",
+                    "title": "Coffee Roasteries"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7578419,
+                "longitude": -73.983183891235
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "117 W 46th St",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "117 W 46th St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+13476193194",
+            "display_phone": "(347) 619-3194",
+            "distance": 474.5894604371346,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "1600",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "1aD88qNRb08LGBkl84GQTA",
+            "alias": "little-collins-new-york-3",
+            "name": "Little Collins",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Y52xQoubzZS4Etd7LHPwIg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/little-collins-new-york-3?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 810,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.759912,
+                "longitude": -73.96964
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "667 Lexington Ave",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10022",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "667 Lexington Ave",
+                    "New York, NY 10022"
+                ]
+            },
+            "phone": "+12123081969",
+            "display_phone": "(212) 308-1969",
+            "distance": 747.0199902953807,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1700",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1700",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1700",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1700",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1700",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1600",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1600",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": false,
+            "open_late": false
+        },
+        {
+            "id": "vUNAqTXcfCNjHMM1ts7NtA",
+            "alias": "ariccia-new-york",
+            "name": "Ariccia",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZQO2tZAuqcoqksG229F3Ag/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ariccia-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.7291099,
+                "longitude": -74.0034289
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "16 Bedford St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10014",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "16 Bedford St",
+                    "New York, NY 10014"
+                ]
+            },
+            "phone": "+16466308314",
+            "display_phone": "(646) 630-8314",
+            "distance": 4046.362779413767,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "8j1tMTbwFC2bUEhpbRwv7Q",
+            "alias": "blue-bottle-coffee-new-york-14",
+            "name": "Blue Bottle Coffee",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kcCeOds_dXLxbsg9pzqzUw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/blue-bottle-coffee-new-york-14?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 42,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.759592,
+                "longitude": -73.975442
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "10 E 53rd St",
+                "address2": null,
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10022",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "10 E 53rd St",
+                    "New York, NY 10022"
+                ]
+            },
+            "phone": "+15106533394",
+            "display_phone": "(510) 653-3394",
+            "distance": 266.739996587137,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1800",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1800",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": false,
+            "open_late": false
+        },
+        {
+            "id": "6X7mv96dCmpCYHDnmpqGUg",
+            "alias": "flora-coffee-new-york",
+            "name": "Flora Coffee",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B8f_-02PeU_wXk6YlQW3ZQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/flora-coffee-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 22,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.773406,
+                "longitude": -73.963836
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "945 Madison Ave",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10021",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "945 Madison Ave",
+                    "New York, NY 10021"
+                ]
+            },
+            "phone": "+16465585383",
+            "display_phone": "(646) 558-5383",
+            "distance": 1920.7552489658149,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "1700",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "1700",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "1700",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "1700",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "1700",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "1700",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "64yrGc7EDNd09ZmhUrizCw",
+            "alias": "birch-coffee-new-york-8",
+            "name": "Birch Coffee",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/af1r5pomDeMi5hA6GxnFIA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/birch-coffee-new-york-8?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 234,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7638444066087,
+                "longitude": -73.9665842526398
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "134 1/2 E 62nd St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10065",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "134 1/2 E 62nd St",
+                    "New York, NY 10065"
+                ]
+            },
+            "phone": "+12126861444",
+            "display_phone": "(212) 686-1444",
+            "distance": 1081.7068079293208,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": false,
+            "open_late": false
+        },
+        {
+            "id": "mKqqDTOKr5oYZeAJkGTMUg",
+            "alias": "birch-coffee-new-york-16",
+            "name": "Birch Coffee",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/e6xt9jk2z0oqFwmtuSdf6Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/birch-coffee-new-york-16?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 41,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.76808,
+                "longitude": -73.98537
+            },
+            "transactions": [],
+            "location": {
+                "address1": "884 9th Ave",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "884 9th Ave",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+12126861444",
+            "display_phone": "(212) 686-1444",
+            "distance": 1051.651482291546,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": false,
+            "open_late": false
+        },
+        {
+            "id": "tNecauWa3jNwDiVMA4okgg",
+            "alias": "black-press-coffee-new-york-3",
+            "name": "Black Press Coffee",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XmUKBZu0WZePLcoD50VvWQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/black-press-coffee-new-york-3?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 40,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.77802,
+                "longitude": -73.97855
+            },
+            "transactions": [],
+            "location": {
+                "address1": "274 Columbus Ave",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10023",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "274 Columbus Ave",
+                    "New York, NY 10023"
+                ]
+            },
+            "phone": "+16464906499",
+            "display_phone": "(646) 490-6499",
+            "distance": 1977.9724678320695,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1900",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1900",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": false,
+            "open_late": false
+        },
+        {
+            "id": "lwfrB59lvpkCBw2FZD3X6w",
+            "alias": "rex-new-york-2",
+            "name": "Rex",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RsnbE-fw7UQqZHcSUXyYgQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rex-new-york-2?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 523,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7688770027633,
+                "longitude": -73.9885788232638
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "864 10th Ave",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "864 10th Ave",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+12127570580",
+            "display_phone": "(212) 757-0580",
+            "distance": 1283.8106875157707,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1600",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "VNZ661bD28qh5PcFlp6g4g",
+            "alias": "oslo-coffee-roasters-new-york-3",
+            "name": "Oslo Coffee Roasters",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Bj7ZLWa7RPB-Wmsn-CwNbg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/oslo-coffee-roasters-new-york-3?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "coffeeroasteries",
+                    "title": "Coffee Roasteries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.760563,
+                "longitude": -73.9990623
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "620 W 42nd St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "620 W 42nd St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1732.243400448522,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1700",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1700",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1700",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1700",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1700",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1700",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1700",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": false,
+            "open_late": false
+        },
+        {
+            "id": "dXK2R-3ECPqXVgjvGlV8Cw",
+            "alias": "zibetto-espresso-bar-new-york",
+            "name": "Zibetto Espresso Bar",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2qqlzP14OqPrVCp_mYPoeg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/zibetto-espresso-bar-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 424,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7639232809413,
+                "longitude": -73.9776043465576
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1385 6th Ave",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1385 6th Ave",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+16467070505",
+            "display_phone": "(646) 707-0505",
+            "distance": 419.2000132051385,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1800",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "t6TzNUUY2ez6s-GYOLs4VA",
+            "alias": "bluestone-lane-new-york-19",
+            "name": "Bluestone Lane",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/N-MEWh57k21Fjy9Apc6nNQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bluestone-lane-new-york-19?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 84,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7522536,
+                "longitude": -73.9988243
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "435 W 31st St",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10001",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "435 W 31st St",
+                    "New York, NY 10001"
+                ]
+            },
+            "phone": "+17183746858",
+            "display_phone": "(718) 374-6858",
+            "distance": 1927.2224945911569,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0730",
+                            "end": "2100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0730",
+                            "end": "2100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0730",
+                            "end": "2100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0730",
+                            "end": "2100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0730",
+                            "end": "2100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0730",
+                            "end": "2100",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0730",
+                            "end": "2100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "rFp19fzZl9VLy3o9QIsn5Q",
+            "alias": "ginjan-new-york",
+            "name": "Ginjan",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/z-2XNvahN8r3oRdlGZOH-g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ginjan-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 27,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.8053795,
+                "longitude": -73.9392237737775
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "85 E 125th St",
+                "address2": null,
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10035",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "85 E 125th St",
+                    "New York, NY 10035"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 6013.059903202058,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "1800",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "1800",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "0sXTHdwbJ_TEZq2WNjmGXw",
+            "alias": "irving-farm-new-york-new-york-10",
+            "name": "Irving Farm New York",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Tf1TuetcacsC9y7mUVvEKw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/irving-farm-new-york-new-york-10?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 568,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "coffeeroasteries",
+                    "title": "Coffee Roasteries"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.78334,
+                "longitude": -73.97952
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "224 W 79th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10024",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "224 W 79th St",
+                    "New York, NY 10024"
+                ]
+            },
+            "phone": "+12128747979",
+            "display_phone": "(212) 874-7979",
+            "distance": 2570.972433438512,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": false,
+            "open_late": false
+        },
+        {
+            "id": "FkxRk1CUEhgBWRzFadkAaQ",
+            "alias": "paper-coffee-new-york",
+            "name": "Paper Coffee",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/f9d1K8FZGwJuj0h9oqsbug/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/paper-coffee-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 88,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7463281632382,
+                "longitude": -73.9896308128189
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "44 W 29th St",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10001",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "44 W 29th St",
+                    "New York, NY 10001"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1806.4758592284184,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1700",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1700",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1700",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1700",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1700",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1700",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1700",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "QH9vS9_Q5um3b8sZntZiyw",
+            "alias": "the-jolly-goat-coffee-bar-new-york",
+            "name": "The Jolly Goat Coffee Bar",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CexyXb2U4Z25flVtGzA_Qg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-jolly-goat-coffee-bar-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 337,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "bagels",
+                    "title": "Bagels"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7633010644103,
+                "longitude": -73.9941928334518
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "515 W 47th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "515 W 47th St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+16465098957",
+            "display_phone": "(646) 509-8957",
+            "distance": 1365.4813332645904,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "7Ksn_bVJ3O2mWXRGMKpzTw",
+            "alias": "kings-street-coffee-new-york",
+            "name": "King's Street Coffee",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IDsxYw5oPcABsAwH7z2H6Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kings-street-coffee-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 90,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.74783,
+                "longitude": -73.99068
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "121 W 30th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10001",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "121 W 30th St",
+                    "New York, NY 10001"
+                ]
+            },
+            "phone": "+12123350333",
+            "display_phone": "(212) 335-0333",
+            "distance": 1714.649977433623,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "2l0dBpaoPVQ1JwD7CaQu-w",
+            "alias": "madman-espresso-new-york-4",
+            "name": "Madman Espresso",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NBukSq7Yo6RM1KaPxMPZZA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/madman-espresso-new-york-4?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 265,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7520356305538,
+                "longitude": -73.991293900852
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "234 W 35th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10001",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "234 W 35th St",
+                    "New York, NY 10001"
+                ]
+            },
+            "phone": "+12125647505",
+            "display_phone": "(212) 564-7505",
+            "distance": 1410.1013722797256,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "1700",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "1700",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "N4Pss0mR4ygDOoSRpM2FQA",
+            "alias": "culture-espresso-new-york",
+            "name": "Culture Espresso",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wqmH1bmtBhPPUoPY4J_JdA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/culture-espresso-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 922,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7521922375529,
+                "longitude": -73.985756306206
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "72 W 38th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10018",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "72 W 38th St",
+                    "New York, NY 10018"
+                ]
+            },
+            "phone": "+12123020200",
+            "display_phone": "(212) 302-0200",
+            "distance": 1081.3542527914417
+        },
+        {
+            "id": "uAYBJgCCLvywdT6GIf2xdg",
+            "alias": "masseria-caffé-and-bakery-new-york-3",
+            "name": "Masseria Caffé & Bakery",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aSSu21fK1_BfQq5xBDK-5g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/masseria-caff%C3%A9-and-bakery-new-york-3?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 55,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7605998206394,
+                "longitude": -73.9860405711449
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "235 W 48th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "235 W 48th St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+12129690900",
+            "display_phone": "(212) 969-0900",
+            "distance": 636.50760852164,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1900",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1900",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "ntkrxOSYT5VtTL4Z5jmmeA",
+            "alias": "ground-central-new-york",
+            "name": "Ground Central",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/If6WewfwUnmQ0mbPorbrcw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ground-central-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 634,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.757575,
+                "longitude": -73.970321
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "155 E 52nd St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10022",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "155 E 52nd St",
+                    "New York, NY 10022"
+                ]
+            },
+            "phone": "+16466093982",
+            "display_phone": "(646) 609-3982",
+            "distance": 748.8476526027309,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "2100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "2100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "2100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "2100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "2100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "1800",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "1800",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": true
+        },
+        {
+            "id": "STBNV2yArITdLJ1k5hfBig",
+            "alias": "gotham-coffee-roasters-new-york",
+            "name": "Gotham Coffee Roasters",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/h2xd0LqvAIobbevcSg9Gcg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gotham-coffee-roasters-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 76,
+            "categories": [
+                {
+                    "alias": "coffeeroasteries",
+                    "title": "Coffee Roasteries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.73975,
+                "longitude": -73.99269
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "23 W 19th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10011",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "23 W 19th St",
+                    "New York, NY 10011"
+                ]
+            },
+            "phone": "+12122552972",
+            "display_phone": "(212) 255-2972",
+            "distance": 2555.688193421774,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0830",
+                            "end": "1830",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0830",
+                            "end": "1830",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": false,
+            "open_late": false
+        },
+        {
+            "id": "J4UF6byGVD4cf5R1hyMIxw",
+            "alias": "yanni-s-coffee-new-york",
+            "name": "Yanni’s Coffee",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/r5eg-l-Pfcs_bWhx5b-3gA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/yanni-s-coffee-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 60,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.7397792,
+                "longitude": -73.9989726
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "96 7th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10011",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "96 7th Ave",
+                    "New York, NY 10011"
+                ]
+            },
+            "phone": "+16468337333",
+            "display_phone": "(646) 833-7333",
+            "distance": 2854.0589633152076,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1800",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1700",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "1Au-74qnl8CTmQ9NBscSRA",
+            "alias": "box-kite-coffee-new-york-4",
+            "name": "Box Kite Coffee",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ncVvn-hErM8B8mArBxStMw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/box-kite-coffee-new-york-4?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 139,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.77763,
+                "longitude": -73.98003
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "128 W 72nd St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10023",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "128 W 72nd St",
+                    "New York, NY 10023"
+                ]
+            },
+            "phone": "+12125748202",
+            "display_phone": "(212) 574-8202",
+            "distance": 1939.2917165386048,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1800",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1800",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": false,
+            "open_late": false
+        },
+        {
+            "id": "m4xMS2SyPJjUJJqPwv2Jig",
+            "alias": "felix-roasting-co-new-york-3",
+            "name": "Felix Roasting Co",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CbDotJ-m9-rS2OvLdgWEig/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/felix-roasting-co-new-york-3?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 149,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.74497,
+                "longitude": -73.98312
+            },
+            "transactions": [],
+            "location": {
+                "address1": "450 Park Ave S",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10016",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "450 Park Ave S",
+                    "New York, NY 10016"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1732.978965899896,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1800",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "dcdhJICzGVa46lizpGok1w",
+            "alias": "proof-coffee-roasters-new-york-5",
+            "name": "PROOF Coffee Roasters",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HWrGrwji9RHOFiddTXZrjw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/proof-coffee-roasters-new-york-5?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 136,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.73985,
+                "longitude": -73.97742
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "335 E 27th St",
+                "address2": null,
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10016",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "335 E 27th St",
+                    "New York, NY 10016"
+                ]
+            },
+            "phone": "+12126891000",
+            "display_phone": "(212) 689-1000",
+            "distance": 2259.3532983262994,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "1800",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "1800",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "ZWX1wn-am6seAWkDCbkIxw",
+            "alias": "ground-central-new-york-4",
+            "name": "Ground Central",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wc1va_BEjfBvYKCo9VzcmQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ground-central-new-york-4?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 196,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.763761,
+                "longitude": -73.984691
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "888 8th Ave",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "888 8th Ave",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+19174090147",
+            "display_phone": "(917) 409-0147",
+            "distance": 653.6997822420369,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "2100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "2100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "2100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "2100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "2100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2100",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": true
+        },
+        {
+            "id": "9-ornJr0G_IHkl6FpcCNzw",
+            "alias": "terremoto-coffee-new-york",
+            "name": "Terremoto Coffee",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/86BkMMP3m1JqpUZOumHrNA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/terremoto-coffee-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 93,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.74079,
+                "longitude": -74.00337
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "328 W 15th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10011",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "328 W 15th St",
+                    "New York, NY 10011"
+                ]
+            },
+            "phone": "+12122434300",
+            "display_phone": "(212) 243-4300",
+            "distance": 3009.335861458125,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1800",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1800",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": true
+        },
+        {
+            "id": "MvZf26mlFsxQBWgyVHp6Pw",
+            "alias": "red-fleece-cafe-new-york-4",
+            "name": "Red Fleece Cafe",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/akHr6it9RkEa6R7AdJDLPw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/red-fleece-cafe-new-york-4?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.75434,
+                "longitude": -73.97834
+            },
+            "transactions": [],
+            "location": {
+                "address1": "346 Madison Ave",
+                "address2": "44Th Street",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10017",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "346 Madison Ave",
+                    "44Th Street",
+                    "New York, NY 10017"
+                ]
+            },
+            "phone": "+12126828800",
+            "display_phone": "(212) 682-8800",
+            "distance": 645.1433904329465,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1800",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1800",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "TF_pSzZv3wVLIGArUERkbw",
+            "alias": "pennylane-coffee-new-york-2",
+            "name": "Pennylane Coffee",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/C_tR5pmPfI729hnclu03Dw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pennylane-coffee-new-york-2?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 141,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.75163,
+                "longitude": -73.97023
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "305 E 45th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10017",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "305 E 45th St",
+                    "New York, NY 10017"
+                ]
+            },
+            "phone": "+19177975133",
+            "display_phone": "(917) 797-5133",
+            "distance": 1188.300510336036,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1800",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1400",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1400",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "icqOzQ93InjnlM9MlS8tYw",
+            "alias": "romeo-and-juliet-colombian-coffee-new-york",
+            "name": "Romeo and Juliet Colombian Coffee",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o_T0E0jiKv7Mr-bnjzKk0g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/romeo-and-juliet-colombian-coffee-new-york?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 222,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.760838,
+                "longitude": -73.997859
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "555 W 42nd St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "555 W 42nd St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+16467073789",
+            "display_phone": "(646) 707-3789",
+            "distance": 1631.9320650928594,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "U3Ueh2bHtp3DLjrdc5w5fQ",
+            "alias": "remi-flower-and-coffee-new-york-2",
+            "name": "Remi Flower & Coffee",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/k3rGNm97whCu5a1KdzrfJQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/remi-flower-and-coffee-new-york-2?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 250,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "florists",
+                    "title": "Florists"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.753781,
+                "longitude": -73.9689989
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "906 2nd Ave",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10017",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "906 2nd Ave",
+                    "New York, NY 10017"
+                ]
+            },
+            "phone": "+16465591233",
+            "display_phone": "(646) 559-1233",
+            "distance": 1073.4485730203544,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1800",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "1800",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": true,
+            "open_late": false
+        },
+        {
+            "id": "8IcowtkuaPf3ZoXIGiNvqg",
+            "alias": "blue-bottle-coffee-new-york-11",
+            "name": "Blue Bottle Coffee",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BfI8eDx7qVx2MwSCXXVGWw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/blue-bottle-coffee-new-york-11?adjust_creative=GRT9UAnX54ytOhAE6KMM5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=GRT9UAnX54ytOhAE6KMM5g",
+            "review_count": 98,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.710715,
+                "longitude": -74.0123300674591
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "150 Greenwich St",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10007",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "150 Greenwich St",
+                    "New York, NY 10007"
+                ]
+            },
+            "phone": "+15106533394",
+            "display_phone": "(510) 653-3394",
+            "distance": 6198.38238423482,
+            "hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0630",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "1900",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "has_wifi": false,
+            "open_late": false
+        }
+    ]
+
+}
