@@ -17,6 +17,16 @@ class Location < ApplicationRecord
         )
        
     end
-# self.add_business_by_db_json(business)
+
+    def address
+        self.location
+    end
+
+    # def average_price
+    #     if self.price === null
+    #         self.price = "$"
+    #     else self.price
+    #     end
+    # end
   
 end
