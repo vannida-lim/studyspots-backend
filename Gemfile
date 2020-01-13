@@ -51,3 +51,9 @@ gem 'active_model_serializers', '~> 0.10.0'
 
 #Make fetch requests
 gem 'http'
+
+#Implementing RFC 7519 OAuth JSON Web Token (JWT) standard
+gem 'jwt'
+gem "dotenv-rails", "~> 2.7"
+
+
