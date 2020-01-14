@@ -4,6 +4,6 @@ Rails.application.routes.draw do
   resources :locations
   resources :users
   post '/login', to: 'auth#login'
-  get '/auth', to: 'auth#persist'
+  get '/persist', to: 'auth#persist'
 
 end
