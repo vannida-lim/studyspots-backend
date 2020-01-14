@@ -29,8 +29,8 @@ ActiveRecord::Schema.define(version: 2020_01_09_005257) do
     t.string "image_url"
     t.string "url"
     t.string "location"
-    t.integer "lat"
-    t.integer "lng"
+    t.decimal "lat", precision: 10, scale: 6
+    t.decimal "lng", precision: 10, scale: 6
     t.integer "rating"
     t.string "price"
     t.boolean "has_wifi"

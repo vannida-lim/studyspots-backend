@@ -1,5 +1,5 @@
-User.destroy_all
-Location.destroy_all
+User.delete_all
+Location.delete_all
 
 
 user = User.create!([{username: "vannida", password: "123456"}])
