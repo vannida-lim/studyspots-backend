@@ -3,7 +3,8 @@ Rails.application.routes.draw do
   resources :favorites
   resources :locations
   resources :users
-  post '/login', to: 'auth#login'
-  get '/auth', to: 'auth#persist'
+  post '/users/:id/favorites', to: 'favorites#create' 
+  post '/auth', to: 'auth#login'
+  get '/persist', to: 'auth#persist'
 
 end
